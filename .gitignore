@@ -2,3 +2,5 @@
 
 .rn
 __pycache__
+
+db.sqlite
